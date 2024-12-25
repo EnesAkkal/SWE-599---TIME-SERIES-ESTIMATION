@@ -9,13 +9,16 @@
 
 ## Setting up the Environment
 
-1. **Create Virtual Environment:**
+1. **CD to Project Folder:**
+cd Time-Series-Estimation
+
+2. **Create Virtual Environment:**
    python3.8 -m venv .venv
 
-2. **Activate the Virtual Environment:**
+3. **Activate the Virtual Environment:**
    source .venv/bin/activate
 
-3. **Install Dependencies:**
+4. **Install Dependencies:**
    pip install -r requirements.txt
 
 ---
